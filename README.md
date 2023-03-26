@@ -13,7 +13,7 @@
 ## 📖 Sobre o projeto ##
 
 O Blog Pessoal é um projeto guiado proposto pelo bootcamp Pessoa Desenvolvedora Java FullStack da Generation Brasil.
-Aqui aplicamos o aprendizado sobre o framework Spring Boot e suas principais funcionalidades na criação de uma API Rest em Java.
+Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma API Rest em Java.
 
 
 ##  🧩 Etapas de Desenvolvimento ##
