@@ -1,4 +1,4 @@
-# Blog Pessoal
+# Minas In Tech
 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -12,9 +12,9 @@
 
 ## 📖 Sobre o projeto ##
 
-O Blog Pessoal é um projeto guiado proposto pelo bootcamp Pessoa Desenvolvedora Java FullStack da Generation Brasil.
+Minas In Tech é um Blog Pessoal proposto como projeto guiado de conclusão do Bloco II do bootcamp da Generation Brasil.
 Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma API Rest em Java.
-
+Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse, em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada :) 
 
 ##  🧩 Etapas de Desenvolvimento ##
 ### Back-End:
