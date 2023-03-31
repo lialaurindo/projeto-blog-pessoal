@@ -30,6 +30,11 @@ Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base p
 - Deploy da aplicação com Render;
 - Documentação do projeto com o SpringDoc e Swagger;
 
+##  🧩 Próximos Passos ##
+### Front-End:
+Implementar o Front-End do Blog com React, conforme a grade do Bloco III do bootcamp.
+
+<br>
 
 ## Rotas
 Métodos para manipulação das postagens do Blog.
