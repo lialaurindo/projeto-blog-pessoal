@@ -24,7 +24,8 @@ import com.generation.blogpessoal.service.UsuarioService;
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public class UsuarioControllerTest {
-
+	
+	//Acessar os métodos e verbos HTTPP (como se fosse o RestController)
 	@Autowired
 	private TestRestTemplate testRestTemplate;
 
