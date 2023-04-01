@@ -16,8 +16,8 @@
 * Sobre o projeto: [voltando a era dos Blogs](#sobre-projeto)
 * Desenvolvimento: [trabalhando no Back-End](#desenvolvimento)
 * Funcionalidades: [O que posso fazer com esta API?](#funcionalidades)
-* Próximos passos: [saboreando uma API de qualidade](#proximos-passos)
-* Sobre mim: [saboreando uma API de qualidade](#sobre-mim)
+* Próximos passos: [o Front-End vem aí!](#proximos-passos)
+* Sobre mim: [Oi, eu sou a Lia!](#sobre-mim)
 
 <br> 
 
