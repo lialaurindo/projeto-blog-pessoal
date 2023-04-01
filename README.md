@@ -9,7 +9,26 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 <div id='inicio'/> 
+
+
+
+* Documentação: [Swagger](#publicacao)
+* Sobre o projeto: [voltando a era dos Blogs](#sobre-projeto)
+* Desenvolvimento: [trabalhando no Back-End](#desenvolvimento)
+* Funcionalidades: [O que posso fazer com esta API?](#funcionalidades)
+* Próximos passos: [saboreando uma API de qualidade](#proximos-passos)
+* Sobre mim: [saboreando uma API de qualidade](#sobre-mim)
+
 <br> 
+
+<div id='publicacao'/> 
+
+## Consultas e Publicações:
+
+[Render](minas-in-tech.onrender.com) | [Swagger](minas-in-tech.onrender.com) | [Insomnia](minas-in-tech.onrender.com)
+
+<br>
+<div id='sobre-projeto'/> 
 
 ##  🗨 Sobre o projeto ##
 
@@ -19,22 +38,25 @@ Minas In Tech é um Blog Pessoal proposto como projeto de conclusão do Bloco II
 Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada :) 
 </p>
 
+<div id='desenvolvimento'/> 
+
 ##  🟣 Etapas de Desenvolvimento ##
 ### Back-End:
 
-- Estrutura do projeto utilizando padrão MVC;
-- Banco de dados com MySQL;
-- Criação dos métodos HTTP para as operações do CRUD;
-- Testes de requisição da API com Insomnia;
-- Aplica validação de usuário com Spring Security;
-- Testes unitários com JUnit;
-- Deploy da aplicação com Render;
-- Documentação do projeto com o SpringDoc e Swagger;
+- [x] Estrutura do projeto utilizando padrão MVC;
+- [x] Banco de dados com MySQL;
+- [x] Criação dos métodos HTTP para as operações do CRUD;
+- [x] Testes de requisição da API com Insomnia;
+- [x] Aplica validação de usuário com Spring Security;
+- [x] Testes unitários com JUnit;
+- [x] Documentação do projeto com o SpringDoc e Swagger;
+- [x] Deploy da aplicação com Render;
 
 
+<div id='funcionalidades'/> 
 
 ## 🟣 Funcionalidades
-<br>
+
 
 | Camada |                Função              |             Ação               |    Ação   |
 | :---: | :---------------------------------: | :------------------------------------------: |:------------------------------------------:|
@@ -43,9 +65,34 @@ Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base p
 | Usuários  |   CRUD para utilizar usuários em Login e incluir limites de acesso na aplicação (Spring Security) |     Criar ou atualizar usuários, assim como listar todos os usuários cadastrados, buscar pelo ID ou nome.  | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiNTA0MjZmNzNhMDAwYmI3MGJjY2EwNGYwZDNhYTNhYzdkYWU3YyZjdD1n/WoWm8YzFQJg5i/giphy.gif" alt="drawing" width="150"/>| 
 
 
+<div id='proximos-passos'/> 
 
 ##  🟣 Próximos Passos ##
 ### Front-End:
 Implementar o Front-End do Blog com React, conforme a grade do Bloco III do bootcamp.
 
+<br>
+
+<div id='sobre-mim'/> 
+
+##  🖤 Sobre mim ##
+
+<div>
+<h6> <img align="left" src="https://avatars.githubusercontent.com/u/97362216?v=4" width="150"/> Oi, eu sou a Lia! <br> E acredito que tecnologia é isso: <br> criar possilidades, seja onde for! </h6>
+ <div align="left">
+ <br>
+  <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:liamaralaurindo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+</div>
+
+<br>
+<br>
+<br>
+
+##
+<div>
+
 [🔝 Voltar ao início](#inicio)
+
+</div>
