@@ -4,9 +4,7 @@
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+
 
 <div id='inicio'/> 
 
@@ -19,14 +17,14 @@
 * Próximos passos: [o Front-End vem aí!](#proximos-passos)
 * Sobre mim: [Oi, eu sou a Lia!](#sobre-mim)
 
-<br> 
 
 <div id='publicacao'/> 
 
 ## Consultas e Publicações:
 
-[Render](minas-in-tech.onrender.com) | [Swagger](minas-in-tech.onrender.com) | [Insomnia](minas-in-tech.onrender.com)
-
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Minas%20In%20Tech%20&uri=)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 <br>
 <div id='sobre-projeto'/> 
 
@@ -58,11 +56,11 @@ Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base p
 ## 🟣 Funcionalidades
 
 
-| Camada |                Função              |             Ação               |    Ação   |
+| **CAMADA**|                FUNÇÃO              |             AÇÕES            |    ✔   |
 | :---: | :---------------------------------: | :------------------------------------------: |:------------------------------------------:|
-|  Postagem |    CRUD para Cadastrar e manipular postagens no Blog      |       Criar, atualizar ou deletar postagens, assim como listar todas as postagens, buscar postagem pelo ID ou palavra-chave.     |<img src="https://media.tenor.com/Gl7uJ6sAIK0AAAAM/darcey-spongebob.gif" width="150"/> |
-|  Temas  |   CRUD para categorizar postagens com Temas (relacionamento entre tabelas)  |     Criar, atualizar ou deletar temas, assim como listar todos os temas, buscar tema pelo ID ou palavra-chave.    |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg1NWY4ZWVjZmM5OTIwN2M1MmRjNWYzMzBkYTI0YmI4MzgyNjUyOCZjdD1n/OfXKySrn0Ej4s/giphy.gif" alt="drawing" width="150"/> |
-| Usuários  |   CRUD para utilizar usuários em Login e incluir limites de acesso na aplicação (Spring Security) |     Criar ou atualizar usuários, assim como listar todos os usuários cadastrados, buscar pelo ID ou nome.  | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiNTA0MjZmNzNhMDAwYmI3MGJjY2EwNGYwZDNhYTNhYzdkYWU3YyZjdD1n/WoWm8YzFQJg5i/giphy.gif" alt="drawing" width="150"/>| 
+|  **POSTAGEM** |    CRUD para Cadastrar e manipular postagens no Blog      |       Criar, atualizar ou deletar postagens, assim como listar todas as postagens, buscar postagem pelo ID ou palavra-chave.    |<img src="https://media.tenor.com/Gl7uJ6sAIK0AAAAM/darcey-spongebob.gif" width="150"/> |
+|  **TEMA**  |   CRUD para categorizar postagens com Temas (relacionamento entre tabelas)  |     Criar, atualizar ou deletar temas, assim como listar todos os temas, buscar tema pelo ID ou palavra-chave.    |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg1NWY4ZWVjZmM5OTIwN2M1MmRjNWYzMzBkYTI0YmI4MzgyNjUyOCZjdD1n/OfXKySrn0Ej4s/giphy.gif" alt="drawing" width="150"/> |
+| **USUÁRIO**  |   CRUD para utilizar usuários em Login e incluir limites de acesso na aplicação (Spring Security) |     Criar ou atualizar usuários, assim como listar todos os usuários cadastrados, buscar pelo ID ou nome.  | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiNTA0MjZmNzNhMDAwYmI3MGJjY2EwNGYwZDNhYTNhYzdkYWU3YyZjdD1n/WoWm8YzFQJg5i/giphy.gif" alt="drawing" width="150"/>| 
 
 
 <div id='proximos-passos'/> 
@@ -80,7 +78,8 @@ Implementar o Front-End do Blog com React, conforme a grade do Bloco III do boot
 <div>
 <h6> <img align="left" src="https://avatars.githubusercontent.com/u/97362216?v=4" width="150"/> Oi, eu sou a Lia! <br> E acredito que tecnologia é isso: <br> criar possilidades, seja onde for! </h6>
  <div align="left">
- <br>
+
+ <h6> Software Developer ▪ Back-End</h6>
   <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:liamaralaurindo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
