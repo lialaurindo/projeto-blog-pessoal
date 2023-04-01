@@ -63,10 +63,67 @@ Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base p
 
 | **CAMADA**|                FUNÇÃO              |             AÇÕES            |    ✔   |
 | :---: | :---------------------------------: | :------------------------------------------: |:------------------------------------------:|
-|  **POSTAGEM** |    CRUD para Cadastrar e manipular postagens no Blog      |       Criar, atualizar ou deletar postagens, assim como listar todas as postagens, buscar postagem pelo ID ou palavra-chave.    |<img src="https://media.tenor.com/Gl7uJ6sAIK0AAAAM/darcey-spongebob.gif" width="150"/> |
-|  **TEMA**  |   CRUD para categorizar postagens com Temas (relacionamento entre tabelas)  |     Criar, atualizar ou deletar temas, assim como listar todos os temas, buscar tema pelo ID ou palavra-chave.    |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg1NWY4ZWVjZmM5OTIwN2M1MmRjNWYzMzBkYTI0YmI4MzgyNjUyOCZjdD1n/OfXKySrn0Ej4s/giphy.gif" alt="drawing" width="150"/> |
+|  **POSTAGEM** |    CRUD para Cadastrar e manipular postagens no Blog      |       Criar, atualizar ou deletar postagens, assim como listar todas as postagens, buscar postagem pelo ID ou palavra-chave (título).    |<img src="https://media.tenor.com/Gl7uJ6sAIK0AAAAM/darcey-spongebob.gif" width="150"/> |
+|  **TEMA**  |   CRUD para categorizar postagens com Temas (relacionamento entre tabelas)  |     Criar, atualizar ou deletar temas, assim como listar todos os temas, buscar tema pelo ID ou palavra-chave (descrição).    |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg1NWY4ZWVjZmM5OTIwN2M1MmRjNWYzMzBkYTI0YmI4MzgyNjUyOCZjdD1n/OfXKySrn0Ej4s/giphy.gif" alt="drawing" width="150"/> |
 | **USUÁRIO**  |   CRUD para utilizar usuários em Login e incluir limites de acesso na aplicação (Spring Security) |     Criar ou atualizar usuários, assim como listar todos os usuários cadastrados, buscar pelo ID ou nome.  | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiNTA0MjZmNzNhMDAwYmI3MGJjY2EwNGYwZDNhYTNhYzdkYWU3YyZjdD1n/WoWm8YzFQJg5i/giphy.gif" alt="drawing" width="150"/>| 
 
+<br> 
+
+## Diagrama de Classes
+
+```mermaid
+classDiagram
+class Tema {
+  - id : Long
+  - descricao : String
+  - postagem : List ~Postagem~
+  + getAll()
+  + getById(Long id)
+  + getByDescricao(String descricao)
+  + postTema(Tema tema)
+  + putTema(Tema tema)
+  + deleteTema(Long id)
+}
+class Postagem {
+  - id : Long
+  - titulo : String
+  - texto: String
+  - data: LocalDateTime
+  - tema : Tema
+  - usuario : Usuario
+  + getAll()
+  + getById(Long id)
+  + getByTitulo(String titulo)
+  + postPostagem(Postagem postagem)
+  + putPostagem(Postagem postagem)
+  + deleteTema(Long id)
+}
+class Usuario {
+  - id : Long
+  - nome : String
+  - usuario : String
+  - senha : String
+  - foto : String
+  - postagem : List ~Postagem~
+  + getAll()
+  + getById(Long id)
+  + autenticarUsuario(UsuarioLogin usuarioLogin)
+  + cadastrarUsuario(Usuario usuario)
+  + atualizarUsuario(Usuario usuario)
+}
+class UsuarioLogin{
+  - id : Long
+  - nome : String
+  - usuario : String
+  - senha : String
+  - foto : String
+  - token : String
+}
+Tema --> Postagem
+Usuario --> Postagem
+```
+
+<br>
 
 <div id='proximos-passos'/> 
 
