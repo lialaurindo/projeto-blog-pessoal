@@ -1,5 +1,11 @@
-# Minas In Tech
-<br> 
+ - - 
+ 
+ <img src="https://media.discordapp.net/attachments/1091365258335113367/1091796460745543680/minas-in-tech-banner.gif?width=1024&height=256"/>
+
+ 
+ 
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-FFD700.svg?style=for-the-badge&logo=java&logoColor=8B008B)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-FFD700?style=for-the-badge&logo=spring-boot&logoColor=8B008B)
@@ -8,13 +14,11 @@
 ![GIT](https://img.shields.io/badge/GIT-FFD700?style=for-the-badge&logo=git&logoColor=8B008B)
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-FFD700?style=for-the-badge&logo=eclipse&logoColor=8B008B)
 
-
-
+</div>
+<br> 
 <div id='inicio'/> 
 
-
-
-* Documentação: [Swagger](#publicacao)
+*  Documentação: [Swagger](#publicacao)
 * Sobre o projeto: [voltando a era dos Blogs](#sobre-projeto)
 * Desenvolvimento: [trabalhando no Back-End](#desenvolvimento)
 * Funcionalidades: [O que posso fazer com esta API?](#funcionalidades)
@@ -36,8 +40,8 @@
 ##  🗨 Sobre o projeto ##
 
 <p>
-Minas In Tech é um Blog Pessoal proposto como projeto de conclusão do Bloco II do bootcamp da Generation Brasil.
-<br>Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma API Rest em Java.
+<b> Minas In Tech </b> é um Blog proposto como projeto de conclusão do Bloco II do bootcamp da Generation Brasil.
+<br>Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma <b> API Rest em Java.</b>
 Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada :) 
 </p>
 
@@ -157,3 +161,5 @@ Implementar o Front-End do Blog com React, conforme a grade do Bloco III do boot
 [🔝 Voltar ao início](#inicio)
 
 </div>
+
+- - 
