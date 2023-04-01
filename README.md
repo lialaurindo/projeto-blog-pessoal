@@ -1,9 +1,13 @@
 # Minas In Tech
 <br> 
 
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Java](https://img.shields.io/badge/java-FFD700.svg?style=for-the-badge&logo=java&logoColor=8B008B)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-FFD700?style=for-the-badge&logo=spring-boot&logoColor=8B008B)
+![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=8B008B)
+![JUnit5](https://img.shields.io/badge/Junit5-FFD700?style=for-the-badge&logo=junit5&logoColor=8B008B)
+![GIT](https://img.shields.io/badge/GIT-FFD700?style=for-the-badge&logo=git&logoColor=8B008B)
+![ECLIPSE](https://img.shields.io/badge/Eclipse-FFD700?style=for-the-badge&logo=eclipse&logoColor=8B008B)
+
 
 
 <div id='inicio'/> 
@@ -22,9 +26,10 @@
 
 ## Consultas e Publicações:
 
+![Render](https://img.shields.io/badge/Render-8B008B?style=for-the-badge&logo=render&logoColor=FFD700)
+![Swagger](https://img.shields.io/badge/Swagger-8B008B?style=for-the-badge&logo=Swagger&logoColor=FFD700)
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Minas%20In%20Tech%20&uri=)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
 <br>
 <div id='sobre-projeto'/> 
 
