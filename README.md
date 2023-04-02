@@ -1,8 +1,6 @@
  - - 
  
  <img src="https://media.discordapp.net/attachments/1091365258335113367/1091796460745543680/minas-in-tech-banner.gif?width=1024&height=256"/>
-
- 
  
 
 <div align="center">
@@ -39,12 +37,13 @@
 
 ##  🗨 Sobre o projeto ##
 
-<p>
-<b> Minas In Tech </b> é um Blog proposto como projeto de conclusão do Bloco II do bootcamp da Generation Brasil.
-<br>Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma <b> API Rest em Java.</b>
-Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada :) 
+<p align="justify">
+<img align="left" src="https://media.discordapp.net/attachments/1091365258335113367/1092135500887883776/minas-in-tech-forum.png?width=500&height=300"/>
+<b> Minas In Tech </b> é um Blog proposto como projeto de conclusão do Bloco II do bootcamp da Generation Brasil. Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma <b> API Rest em Java.</b> <br>Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada. A ideia é um ter um espaço, parecido com um fórum, onde as usuárias pudessem incluir dúvidas reais de carreira e que outras usuárias pudessem contribuir nestas discussões, dentro de uma plataforma segura.
 </p>
 
+<br>
+<br>
 <div id='desenvolvimento'/> 
 
 ##  🟣 Etapas de Desenvolvimento ##
@@ -68,7 +67,7 @@ Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base p
 | **CAMADA**|                FUNÇÃO              |             AÇÕES            |    ✔   |
 | :---: | :---------------------------------: | :------------------------------------------: |:------------------------------------------:|
 |  **POSTAGEM** |    CRUD para Cadastrar e manipular postagens no Blog      |       Criar, atualizar ou deletar postagens, assim como listar todas as postagens, buscar postagem pelo ID ou palavra-chave (título).    |<img src="https://media.tenor.com/Gl7uJ6sAIK0AAAAM/darcey-spongebob.gif" width="150"/> |
-|  **TEMA**  |   CRUD para categorizar postagens com Temas (relacionamento entre tabelas)  |     Criar, atualizar ou deletar temas, assim como listar todos os temas, buscar tema pelo ID ou palavra-chave (descrição).    |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg1NWY4ZWVjZmM5OTIwN2M1MmRjNWYzMzBkYTI0YmI4MzgyNjUyOCZjdD1n/OfXKySrn0Ej4s/giphy.gif" alt="drawing" width="150"/> |
+|  **TEMA**  |   CRUD para categorizar postagens com Temas (relacionamento entre tabelas)  |     Criar, atualizar ou deletar temas, assim como listar todos os temas, buscar tema pelo ID ou palavra-chave (descrição).    |<img src="https://media.discordapp.net/attachments/1091365258335113367/1092135501227643060/UglyEminentEidolonhelvum-size_restricted.gif?width=322&height=225" width="150"/> |
 | **USUÁRIO**  |   CRUD para utilizar usuários em Login e incluir limites de acesso na aplicação (Spring Security) |     Criar ou atualizar usuários, assim como listar todos os usuários cadastrados, buscar pelo ID ou nome.  | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiNTA0MjZmNzNhMDAwYmI3MGJjY2EwNGYwZDNhYTNhYzdkYWU3YyZjdD1n/WoWm8YzFQJg5i/giphy.gif" alt="drawing" width="150"/>| 
 
 <br> 
