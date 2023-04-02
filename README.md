@@ -23,7 +23,6 @@
 * Próximos passos: [o Front-End vem aí!](#proximos-passos)
 * Sobre mim: [Oi, eu sou a Lia!](#sobre-mim)
 
-
 <div id='publicacao'/> 
 
 ## Consultas e Publicações:
@@ -57,6 +56,7 @@
 - [x] Documentação do projeto com o SpringDoc e Swagger;
 - [x] Deploy da aplicação com Render;
 
+<br>
 
 <div id='funcionalidades'/> 
 
