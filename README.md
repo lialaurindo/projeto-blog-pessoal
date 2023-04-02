@@ -22,6 +22,8 @@
 * Funcionalidades: [O que posso fazer com esta API?](#funcionalidades)
 * Próximos passos: [o Front-End vem aí!](#proximos-passos)
 * Sobre mim: [Oi, eu sou a Lia!](#sobre-mim)
+* Sobre mim: [Sobre a Generation Brasil](#sobre-generation)
+
 
 <div id='publicacao'/> 
 
@@ -44,7 +46,7 @@
 <br>
 <div id='desenvolvimento'/> 
 
-##  🟣 Etapas de Desenvolvimento ##
+## 🟣🟡 Etapas de Desenvolvimento ## 
 ### Back-End:
 
 - [x] Estrutura do projeto utilizando padrão MVC;
@@ -54,13 +56,13 @@
 - [x] Aplica validação de usuário com Spring Security;
 - [x] Testes unitários com JUnit;
 - [x] Documentação do projeto com o SpringDoc e Swagger;
-- [x] Deploy da aplicação com Render;
+- [x] Deploy da aplicação com Render utilizando DockerFile;
 
 <br>
 
 <div id='funcionalidades'/> 
 
-## 🟣 Funcionalidades
+## 🟣🟡 Funcionalidades
 
 
 | **CAMADA**|                FUNÇÃO              |             AÇÕES            |    ✔   |
@@ -71,7 +73,7 @@
 
 <br> 
 
-## Diagrama de Classes
+## 🟣🟡 Diagrama de Classes
 
 ```mermaid
 classDiagram
@@ -129,32 +131,41 @@ Usuario --> Postagem
 
 <div id='proximos-passos'/> 
 
-##  🟣 Próximos Passos ##
+## 🟣🟡 Próximos Passos ##
 ### Front-End:
 Implementar o Front-End do Blog com React, conforme a grade do Bloco III do bootcamp.
 
 <br>
 
 <div id='sobre-mim'/> 
-
-##  🖤 Sobre mim ##
+<h2 align="right"> Sobre mim⠀</h2>
 
 <div>
 <h6> <img align="left" src="https://avatars.githubusercontent.com/u/97362216?v=4" width="150"/> Oi, eu sou a Lia! <br> E acredito que tecnologia é isso: <br> criar possilidades, seja onde for! </h6>
  <div align="left">
 
  <h6> Software Developer ▪ Back-End</h6>
-  <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:liamaralaurindo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:liamaralaurindo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 </div>
 
 <br>
+
+<div id='sobre-generation'/> 
+<h2 align="right"> Sobre a Generation⠀</h2>
+
+<br>
+
+<h6> <img align="left" src="https://media.discordapp.net/attachments/1091365258335113367/1092174080511311942/logo-gen.png?width=509&height=206" width="200"/> Generation é uma organização presente em 17 países e fundada pela McKinsey & Company com propósito de oferecer treinamento intensivo em habilidades técnicas, comportamentais, mentalidades e serviços de apoio social para formação de novos talentos em tecnologia. 
+<br><br><ahref="https://www.linkedin.com/school/generationbrasil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://brazil.generation.org/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"</a>
+</h6>
+
+</div>
+
 <br>
 <br>
 
-##
-<div>
+---
 
 [🔝 Voltar ao início](#inicio)
 
