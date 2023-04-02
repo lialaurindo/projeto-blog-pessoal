@@ -43,7 +43,6 @@
 </p>
 
 <br>
-<br>
 <div id='desenvolvimento'/> 
 
 ##  🟣 Etapas de Desenvolvimento ##
