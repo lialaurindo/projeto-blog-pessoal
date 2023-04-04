@@ -29,7 +29,7 @@
 
 ## Consultas e Publicações:
 
-<a href="https://minas-in-tech.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Render-8B008B?style=for-the-badge&logo=render&logoColor=FFD700" target="_blank"></a> <a href="https://minas-in-tech.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Swagger-8B008B?style=for-the-badge&logo=Swagger&logoColor=FFD700" target="_blank"></a> [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Minas%20In%20Tech%20&uri=)
+<a href="https://minas-in-tech.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Render-8B008B?style=for-the-badge&logo=render&logoColor=FFD700" target="_blank"></a> <a href="https://github.com/lialaurindo/projeto-blog-pessoal/blob/main/doc-swagger.pdf" target="_blank"><img src="https://img.shields.io/badge/Swagger-8B008B?style=for-the-badge&logo=Swagger&logoColor=FFD700" target="_blank"></a> [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Minas%20In%20Tech%20&uri=)
 
 
 <br>
