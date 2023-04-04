@@ -132,7 +132,7 @@ Usuario --> Postagem
 
 ## 🟣🟡 Próximos Passos ##
 ### Front-End:
-Implementar o Front-End do Blog com React, conforme a grade do Bloco III do bootcamp.
+Implementar o Front-End do Blog com React e Typescript, conforme a grade do Bloco 3 de 3 do bootcamp.
 
 <br>
 
