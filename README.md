@@ -11,8 +11,8 @@
 ![JUnit5](https://img.shields.io/badge/Junit5-FFD700?style=for-the-badge&logo=junit5&logoColor=8B008B)
 ![GIT](https://img.shields.io/badge/GIT-FFD700?style=for-the-badge&logo=git&logoColor=8B008B)
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-FFD700?style=for-the-badge&logo=eclipse&logoColor=8B008B)
-
 </div>
+
 <br> 
 <div id='inicio'/> 
 
@@ -39,7 +39,8 @@
 
 <p align="justify">
 <img align="left" src="https://media.discordapp.net/attachments/1091365258335113367/1092135500887883776/minas-in-tech-forum.png?width=500&height=300"/>
-<b> Minas In Tech </b> é um Blog proposto como projeto de conclusão do Bloco II do bootcamp da Generation Brasil. Aqui aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma <b> API Rest em Java.</b> <br>Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada. A ideia é um ter um espaço, parecido com um fórum, onde as usuárias pudessem incluir dúvidas reais de carreira e que outras usuárias pudessem contribuir nestas discussões, dentro de uma plataforma segura.
+<b> Minas In Tech </b> Minas In Tech é um Blog proposto como projeto guiado no bootcamp de Pessoa Desenvolvedora Java Full Stack da Generation Brasil.
+<br>Nesta primeira etapa criamos o Back-End onde aplicamos o aprendizado sobre o framework Spring e suas principais funcionalidades na criação de uma <b> API Rest em Java.</b> <br>Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada. A ideia é um ter um espaço, parecido com um fórum, onde as usuárias pudessem incluir dúvidas reais de carreira e que outras usuárias pudessem contribuir nestas discussões, dentro de uma plataforma segura.
 </p>
 
 <br>
